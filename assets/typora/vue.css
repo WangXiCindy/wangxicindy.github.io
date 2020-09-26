@@ -30,7 +30,8 @@ body>*:last-child {
 }
 
 a {
-    color: #42b983;
+    /*color: #42b983;*/
+    color: #9370DB;
     font-weight: 600;
     padding: 0px 2px;
 }
@@ -302,7 +303,8 @@ span.highlight {
 }
 
 blockquote {
-    border-left: 4px solid #42b983;
+    /*border-left: 4px solid #42b983;*/
+    border-left: 4px solid #9932CC;
     padding: 10px 0px 10px 15px;
     color: #34495e;
     background-color: rgba(66, 185, 131, .1);
