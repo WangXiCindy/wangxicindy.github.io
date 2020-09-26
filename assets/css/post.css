@@ -170,7 +170,8 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-toggle:hover {
-  background-color: #42b983;
+  /*background-color: #42b983;*/
+  background-color: #BA55D3;
 }
 
 .sidebar-toggle:before {
