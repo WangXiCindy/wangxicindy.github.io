@@ -6,17 +6,17 @@
      extensions: ["noUndefined.js","autoload-all.js","AMSmath.js","AMSsymbols.js","color.js","cancel.js"],
      equationNumbers: { autoNumber: "all" }
      },
-     //tex2jax: {
-     //    inlineMath:  [ ["$", "$"] ,['\\(','\\)']],//行内公式选择符
-     //    displayMath: [ ["$$","$$"] ],//段内公式选择符
-     //    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre','code','a'],//避开某些标签
-     //    ignoreClass:"comment-content" //避开含该Class的标签
-    // },
      tex2jax: {
-       displayMath: [['$$\n', '\n$$'], ['$$\r\n', '\r\n$$']],
-       inlineMath: [ ['$','$'], ['$$', '$$']],
-       processEscapes: true
+         inlineMath:  [ ["$", "$"] ,['\\(','\\)']],//行内公式选择符
+         displayMath: [ ["$$","$$"] ],//段内公式选择符
+         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre','code','a'],//避开某些标签
+         ignoreClass:"comment-content" //避开含该Class的标签
      },
+     //tex2jax: {
+     //  displayMath: [['$$\n', '\n$$'], ['$$\r\n', '\r\n$$']],
+     //  inlineMath: [ ['$','$'], ['$$', '$$']],
+     //  processEscapes: true
+     //},
      "HTML-CSS": { fonts: ["TeX"] }
    });     
 </script>
