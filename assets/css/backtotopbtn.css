@@ -6,7 +6,8 @@
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #42b983;
+  /*background-color: #42b983;*/
+  background-color:#BA55D3
   color: white;
   cursor: pointer;
   padding: 15px;
