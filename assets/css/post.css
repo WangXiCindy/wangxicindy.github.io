@@ -177,10 +177,10 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:before {
   display: block;
   content: "";
-  width: 80%;
+  width: 100%;
   padding-bottom: .125rem;
-  border-top: .375rem double;
-  border-bottom: .125rem solid;
+  border-top: .350rem double;
+  border-bottom: .120rem solid;
 
   /* Make the border inside the box */
   -webkit-box-sizing: border-box;
