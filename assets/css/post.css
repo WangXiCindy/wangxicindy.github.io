@@ -108,13 +108,13 @@ body {
   .sidebar {
     font-size: .75rem; /* 14px */
 		left: -14rem;
-		width: 14rem;
+		width: 10rem;
   }
 }
 
 /* Sidebar content */
 .sidebar a {
-  font-size: 15px
+  font-size: 18px
 }					
 .sidebar-item {
   padding: 1rem;
