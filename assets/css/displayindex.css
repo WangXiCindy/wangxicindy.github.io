@@ -166,8 +166,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-toggle:hover {
-  /*background-color: #42b983;*/
-  background-color: #0D6BFF;
+  background-color: #42b983;
 }
 
 .sidebar-toggle:before {
