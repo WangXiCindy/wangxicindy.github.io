@@ -92,8 +92,7 @@ body{
     padding:0;
     font-size:100%;
     line-height:1.5;
-    /*color:#555;*/
-    color:#C1A499
+    color:#555;
     font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif
 }
 
@@ -167,7 +166,8 @@ sub,sup{
     }
 }
 #particles-js{
-    background:#1a222c;
+    /*background:#1a222c;*/
+    background:#C1A499;
     display:flex;
     vertical-align:bottom;
     width:100%;
