@@ -177,7 +177,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:before {
   display: block;
   content: "";
-  width: 100%;
+  width: 80%;
   padding-bottom: .125rem;
   border-top: .375rem double;
   border-bottom: .125rem solid;
