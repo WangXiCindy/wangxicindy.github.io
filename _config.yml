@@ -1,29 +1,29 @@
 # Site settings
-title: Website Title
-description: Website short description
-baseurl: "" 
+title: Cindy Wang's BLog
+description: ML、CV、大数据相关
+baseurl: ""
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://wangxicindy.github.io"
 
 
 # GitHub User settings
-username: Cindy Wang
-github_username: WangXiCindy
-user_description: 本科在读，大数据/机器学习/计算机视觉爱好者，会po一些自己的学习笔记和心得在其上
+username: Username
+github_username: github_username
+user_description: user_description
 user_title: user_title
-email: wangxiwangxu@qq.com
+email:
 
 # Blog Author settings
-author: Cindy Wang
-  name:            
-  picture:        
-  email:           
-  description:     
+author:
+  name:
+  picture:
+  email:
+  description:
   twitter:
   facebook:
-  github:          
+  github:
   linkedin:
-  clustrmap:      
+  clustrmap:
 
 
 # markdown
@@ -67,6 +67,7 @@ defaults:
       commentable: true
       rss: true
       numbering: true
+
 
 exclude:
  - LICENSE.md
