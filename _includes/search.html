@@ -7,13 +7,13 @@ Enable Full-content search: <input type="checkbox" id="Full-content"  onclick="C
 <!-- Enable Fuzzy search: <input type="checkbox" id="fuzzy"  onclick="CheckBox()"> 
    fuzzy search is awful
    -->
-<script src="{{site.url}}{{site.baseurl}}/assets/js/search-script.js" type="text/javascript" ></script>
+<script src="/assets/js/search-script.js" type="text/javascript" ></script>
 <!-- Configuration -->
 <script type="text/javascript">
    SimpleJekyllSearch({
        searchInput: document.getElementById('search-input'),
        resultsContainer: document.getElementById('results-container'),
-       json: '{{site.url}}{{site.baseurl}}/blog/searchFull.json',
+       json: '/blog/searchFull.json',
        noResultsText: 'No results found',
        limit: 15,
        fuzzy: false
@@ -25,7 +25,7 @@ Enable Full-content search: <input type="checkbox" id="Full-content"  onclick="C
            return SimpleJekyllSearch({
                searchInput: document.getElementById('search-input'),
                resultsContainer: document.getElementById('results-container'),
-               json: '{{site.url}}{{site.baseurl}}/blog/searchFull.json',
+               json: '/blog/searchFull.json',
    			noResultsText: 'No results found',
                limit: 15,
                fuzzy: false
@@ -34,7 +34,7 @@ Enable Full-content search: <input type="checkbox" id="Full-content"  onclick="C
            return SimpleJekyllSearch({
                searchInput: document.getElementById('search-input'),
                resultsContainer: document.getElementById('results-container'),
-               json: '{{site.url}}{{site.baseurl}}/blog/search.json',
+               json: '/blog/search.json',
       noResultsText: 'No results found',
                limit: 15,
                fuzzy: false
