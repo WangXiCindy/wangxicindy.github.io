@@ -161,10 +161,10 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   width: 1rem;
-  padding: .5rem .65rem;
+  padding: .5rem .55rem;
   color: white;
   background-color: #1a222c;
-  border-radius: 4px;
+  border-radius: 3px;
   cursor: pointer;
 	z-index: 2;
 }
