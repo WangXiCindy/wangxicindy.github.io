@@ -1,0 +1,77 @@
+# Site settings
+title: Website Title
+description: Website short description
+baseurl: "" 
+#change the baseurl to "" if you are using it as your user GitHub Pages
+url: "https://wangxicindy.github.io"
+
+
+# GitHub User settings
+username: Cindy Wang
+github_username: WangXiCindy
+user_description: 本科在读，大数据/机器学习/计算机视觉爱好者，会po一些自己的学习笔记和心得在其上
+user_title: user_title
+email: wangxiwangxu@qq.com
+
+# Blog Author settings
+author: Cindy Wang
+  name:            
+  picture:        
+  email:           
+  description:     
+  twitter:
+  facebook:
+  github:          
+  linkedin:
+  clustrmap:      
+
+
+# markdown
+markdown: kramdown
+  
+kramdown:
+ footnote_nr: 1
+ entity_output: as_char
+ # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+ syntax_highlighter: rouge
+ syntax_highlighter_opts:
+  # Use existing pygments syntax highlighting css
+  css_class: 'highlight'
+ span:
+  line_numbers: false
+ block:
+  line_numbers: true
+  start_line: 1
+ 
+highlighter: rouge
+    
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+permalink: none
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      toc: true
+      mathjax: true
+      mermaid: false
+      highlight: false
+      numbering: true
+      status: Completed
+      protected: false
+      commentable: true
+      rss: true
+      numbering: true
+
+exclude:
+ - LICENSE.md
+ - README.md
+ - "*.cdf"
+ - "*.nb"
+ - "*.bk"
+ - "*.draft.md"
