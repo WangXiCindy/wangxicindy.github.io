@@ -2,16 +2,16 @@
 layout: home
 ---
 <div class="user-details">
-<h2> Me and this website </h2>
-<p style="text-align: justify;"> Your description </p>
+<h2> 关于我和我的小blog </h2>
+<p style="text-align: justify;"> 机器学习/CV/大数据相关知识学习中，可以到about中了解我的更多信息 </p>
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
+	<h3> 近日心得 </h3>
 	{% include clustrmap.html style="js" %}
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
+	<p> <small> 无谓的焦虑对自己没有任何好处 </small></p>
 </div>
 </div>
 <div class="permlinks">
-<h2>Recent Posts</h2>
+<h2>最近更新</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
 	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
@@ -23,10 +23,11 @@ layout: home
 	<p>... <a href="/blog">Full Posts List</a> </p>
 </dl>
 
-<h2>Upcoming Posts (edit me at /index.html )</h2>
+<h2>在考虑的Posts们</h2>
 <ul>
-	<li>Post 1</li>
-	<li>Post 2</li>
+	<li>数模经验相关</li>
+    <li>Deecamp经验相关</li>
+	<li>openCV相关</li>
 </ul>
 
 </div >
