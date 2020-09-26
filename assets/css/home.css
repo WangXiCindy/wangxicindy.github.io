@@ -168,7 +168,7 @@ sub,sup{
 #particles-js{
     /*background:#1a222c;*/
     /*background:#C1A499;*/
-    background-image:url('/earth.gif');
+    background-image:url('/earth.png');
     display:flex;
     vertical-align:bottom;
     width:100%;
