@@ -12,6 +12,8 @@ footer {
 }
 
 footer a {
-	color: #42b983;
+	/*color: #42b983;*/
+	color: #BA55D3;
+	
 	font-weight: 600;
 }
