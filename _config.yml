@@ -1,6 +1,6 @@
 # Site settings
 title: Cindy Wang's BLog
-description: ML、CV、大数据相关
+description: 
 baseurl: ""
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://wangxicindy.github.io"
