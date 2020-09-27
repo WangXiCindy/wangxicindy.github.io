@@ -156,13 +156,14 @@ a.sidebar-nav-item:focus {
   display: none;
 }																																		 
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
+/*点击出现侧边栏的按钮样式*/
 .sidebar-toggle {
   position: absolute;
   top:  1rem;
   left: 1rem;
   display: block;
   width: 1rem;
-  padding: .5rem .45rem;
+  padding: .5rem .35rem;
   color: white;
   background-color: #1a222c;
   border-radius: 3px;
@@ -203,7 +204,7 @@ a.sidebar-nav-item:focus {
   }
   .sidebar-toggle:before {
     padding-bottom: .15rem;
-		border-top-width: .45rem;												 
+	border-top-width: .45rem;												 
     border-bottom-width: .15rem;
   }
 }
