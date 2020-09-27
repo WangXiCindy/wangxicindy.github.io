@@ -100,7 +100,7 @@ body {
   overflow-x: auto;
   font-size: .875rem; /* 15px */
   background-color: #1a222c;
-  opacity: 0.85 ;
+  opacity: 0.9 ;
   color:white;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
