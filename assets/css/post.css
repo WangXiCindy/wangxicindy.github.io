@@ -168,7 +168,7 @@ a.sidebar-nav-item:focus {
   background-color: #1a222c;
   border-radius: 2px;
   cursor: pointer;
-  z-index: 2;
+  z-index: 1;
 }
 
 .sidebar-toggle:hover {
