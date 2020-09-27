@@ -164,9 +164,10 @@ a.sidebar-nav-item:focus {
   padding: .5rem .55rem;
   color: white;
   background-color: #1a222c;
+  opacity: 0.8 ;
   border-radius: 3px;
   cursor: pointer;
-	z-index: 2;
+  z-index: 2;
 }
 
 .sidebar-toggle:hover {
