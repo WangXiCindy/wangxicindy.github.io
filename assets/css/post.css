@@ -100,7 +100,7 @@ body {
   overflow-x: auto;
   font-size: .875rem; /* 15px */
   background-color: #1a222c;
-  opacity: 0.8 ;
+  opacity: 0.85 ;
   color:white;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
@@ -162,7 +162,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   width: 1rem;
-  padding: .3rem .55rem;
+  padding: .5rem .45rem;
   color: white;
   background-color: #1a222c;
   border-radius: 3px;
