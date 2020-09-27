@@ -93,8 +93,8 @@ body {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -17rem;
-  width: 17rem;
+  left: -15rem;
+  width: 15rem;
   visibility: hidden;
   overflow-y: auto;
   overflow-x: auto;
@@ -163,7 +163,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   width: 0.5rem;
-  padding: .3rem .15rem;
+  padding: .5rem .15rem;
   color: white;
   background-color: #1a222c;
   border-radius: 3px;
