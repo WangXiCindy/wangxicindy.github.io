@@ -30,5 +30,5 @@ mathjax: false
 
 # 联系方式
 
-- 欢迎通过我的Email联系我: $wangxiwangxu$ @ $qq.com$ 或 $cindywang$ @ $mail.dlut.edu.cn$（毕业将不再使用）
+- 欢迎通过我的Email联系我: wangxiwangxu@qq.com 或 cindywang@mail.dlut.edu.cn（2022年后毕业将不再使用）
 - 也可以通过我的CSDN账号[热爱Data的直男熙哥](https://blog.csdn.net/Cindy_00)给我留言,CSDN帐号上也会po一些算法、工作相关的内容，欢迎关注。
