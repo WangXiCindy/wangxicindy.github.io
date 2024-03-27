@@ -10,7 +10,7 @@ mathjax: false
 
 # 关于我
 - 毕业于大连理工大学软件工程专业，大数据方向，目前在读研。
-- 有python/c++/java(javaee)开发经验（主用python和c++）、sklearn/tensorflow/pytorch/matlab训练分析经验（主用pytroch）和 latex/markdown等写作经验。
+- 有python/c++/java(javaee)开发经验（主用python和c++）、pytorch/tensorflow/matlab训练分析经验（主用pytroch）和 latex/markdown等写作经验。
 - 有数模（美赛Finalist），计算机视觉（项目已结，已获国奖，专利在申），机器学习相关经验，曾是Deecamp学员。对我的经历感兴趣的，欢迎到我的相关友链下留言提问。
 
 
