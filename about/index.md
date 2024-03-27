@@ -9,8 +9,8 @@ mathjax: false
 ---
 
 # 关于我
-- 目前就读于大连理工大学软件工程专业，大数据方向，还是undergraduate。
-- js初学玩家（笑），有python/c++/java(javaee)开发经验、sklearn/tensorflow/pytorch/matlab训练分析经验和 latex/markdown等写作经验。
+- 毕业于大连理工大学软件工程专业，大数据方向，目前在读研。
+- 有python/c++/java(javaee)开发经验（主用python和c++）、sklearn/tensorflow/pytorch/matlab训练分析经验（主用pytroch）和 latex/markdown等写作经验。
 - 有数模（美赛Finalist），计算机视觉（项目已结，已获国奖，专利在申），机器学习相关经验，曾是Deecamp学员。对我的经历感兴趣的，欢迎到我的相关友链下留言提问。
 
 
@@ -30,5 +30,5 @@ mathjax: false
 
 # 联系方式
 
-- 欢迎通过我的Email联系我: wangxiwangxu@qq.com 或 cindywang@mail.dlut.edu.cn（2022年毕业后将不再使用）
+- 欢迎通过我的Email联系我: cindyxiwang@outlook.com
 - 也可以通过我的CSDN账号[热爱Data的直男熙哥](https://blog.csdn.net/Cindy_00)给我留言，CSDN帐号上也会po一些算法、工作相关的内容，欢迎关注。
